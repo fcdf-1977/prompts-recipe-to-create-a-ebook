@@ -44,12 +44,6 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , de uma forma mais simples como se tivesse falando com crianças de 5 anos em 5 lições que para aprender sobre educação financeira
 
 
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
